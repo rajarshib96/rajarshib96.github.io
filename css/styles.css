@@ -1,0 +1,98 @@
+.top{
+position: relative;
+padding-top: 100px;
+    
+}
+body{
+    margin: 0;
+    background-color:#0a97b0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    position: relative;
+}
+h1{
+    margin: 67px;
+    font-family: 'Sacramento', cursive;
+    position:fixed;
+    margin-left: 600px;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    position:fixed;
+    top: 80px;
+    margin-left: 616px;
+    text-align: center;
+}
+.q{
+    position: absolute;
+    left: 800px;
+    top: 200px;}
+.daor{
+    position: absolute;
+    left: 360px;
+    top: 300px;
+}
+.middle{
+    height: 100px;
+    width: 1400px;
+    background-color:whitesmoke;
+    position: fixed;  
+    top: 0px;
+}
+.d{
+
+        background-color: black;
+        height: 200px;
+        width: 200px;
+        position: fixed;
+       
+    }
+
+.bottom{
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 700px;
+    margin-left: 200px;
+ }
+ .absolute{
+     background-color: black;
+     height: 200px;
+     width: 200px;
+     position: fixed;
+     left: 400px;}
+
+.m{
+    height: 200px;
+    width: 200px;
+    background-color: whitesmoke;
+    position: absolute; 
+   margin-left: 600px; 
+    top:700px;
+} 
+     
+.b{height: 200px;
+        width: 200px;
+        background-color: black;
+        position: fixed; 
+        left: 800px; 
+    }
+    
+.a{height: 200px;
+        width: 200px;
+        background-color: whitesmoke;
+        position: absolute; 
+        left: 1000px; 
+        top:700px; 
+    }
+    .c{
+        background-color: black;
+        height: 200px;
+        width: 150px;
+        position: fixed;
+        left: 1200px;  
+    }
+span{
+    text-decoration: underline;
+}
